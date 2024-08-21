@@ -20,7 +20,7 @@ description: "Blog for the CS Hardware team" # This will show up in places like 
 #########################################################################################
 #theme: "minima"
 
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: pages-themes/hacker@v0.2.0
 
 rss: rss
 
