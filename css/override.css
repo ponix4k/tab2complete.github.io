@@ -1,6 +1,22 @@
+body {
+  background-color: #6c6c6c ;
+}
+
 hr {
   margin-top: 30px;
   margin-bottom: 20px;
+}
+
+.site-header {
+  border-bottom: 1px solid #ec9423 ;
+}
+
+.site-footer {
+  border-top: 1px solid #ec9423
+}
+
+.svg-icon {
+  fill: #ec9423 ;
 }
 
 /* Post navigation links */
