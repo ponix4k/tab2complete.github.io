@@ -1,1 +1,1 @@
-Here are the Musings of the CS Hardware team and the various projects that we have been workign on.
+Here are the Musings of the CS Hardware team and the various projects that we have been working on.
