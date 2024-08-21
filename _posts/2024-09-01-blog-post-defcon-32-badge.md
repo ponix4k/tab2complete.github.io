@@ -1,19 +1,21 @@
 ## Defcon Badge 32 Post
 
-Badge Story 
+### Badge Story 
 
 The badge life community at DEF CON is an incredible opportunity for hackers to showcase their technical skills and artistic flair. We’re excited to share that this will be the second year that CovertSwarm have designed a DEF CON badge for the #badgelife community. 
 
- Last year’s badge was a Hardware Hacking CTF, but this year we wanted to do something less complicated with a device that is accessible to more people. 
+Last year’s badge was a Hardware Hacking CTF, but this year we wanted to do something less complicated with a device that is accessible to more people. 
 
- The DEF CON  32 badge is built upon the idea that the conference was moved from its historical location, the Caesars forum to the Las Vegas Convention Centre, and attendees will likely have to walk more than the previous editions to reach the different areas of DEF CON  32.  
+The DEF CON  32 badge is built upon the idea that the conference was moved from its historical location, the Caesars forum to the Las Vegas Convention Centre, and attendees will likely have to walk more than the previous editions to reach the different areas of DEF CON  32.  
 
 The badge is a role-playing game (RPG) that uses an accelerometer to detect the player’s movement throughout their time at the conference. 
 
 The steps are then translated into experience points (XP) so the more you move, the more you level up your character, and on your adventure to reach the “Covert Caverns” you will randomly obtain loot.
 
 These items could contain powerful equipment to aid you in facing the challenges that the game presents. 
-Planning 
+
+
+### Planning and Production
 
 The production process for the prototype badge took more than 6 months. 
 
@@ -27,9 +29,10 @@ The team had several meetings and discussions over that period about various top
     Will there be any easter eggs? 
 
 We came up with this version of the Walking Adventurers badge. Here are some pictures of the prototype build:  
-Prototype Badge  
 
-Initial Circuit 
+#### Prototype Badge  
+
+##### Initial Circuit 
 { image }
 
 DEF CON 32 Initial Circuit
@@ -46,13 +49,15 @@ DEF CON 32 Prototype 2 img
 
 Using these prototypes, we were able to test aspects of the firmware and build a nicer looking template for the final badge which looks like this: 
 
-### DEF CON 32 Final Design
-Game Logic 
-{ image }
-Characters 
-{ image }
- Within the game there are four classes to play, each with their own individual stats.
+#### DEF CON 32 Final Design
 
+##### Game Logic 
+{ image }
+
+#### Characters 
+{ image }
+
+Within the game there are four classes to play, each with their own individual stats.
 
 | Class  | Paladin  | Mage    | Rouge | Bard |
 | :--: | :--: | :--: | :--: | :--: |
@@ -64,7 +69,8 @@ Characters
 Players will need to level up their character by moving (or cheating by shaking the device) to earn XP which will level up the player. As you travel, you will also have the chance to obtain powerful items and equipment. 
 
 Players will complete the game by facing the multiple dungeons until they beat the Covert Caverns. 
-Dungeons 
+
+#### Dungeons 
 
 The Dungeons will have an entry requirement which is based on the user’s stats, level and health. 
 
@@ -78,22 +84,24 @@ There will also be a variable number of rewards that will range in rarity for ea
 To complete the dungeon all the players must achieve the required number of steps which will increase with the difficulty of the dungeon. 
 
 You can escape the dungeon at any time but doing so will lose you 50% of your health and all the XP gained in the dungeon. 
-
  
-Loot 
+#### Loot 
 
 An interesting detail about the looting system is that all the images for the items that a player will receive are unique as they are entirely generated using random factors, starting from a common base sprite.  
 
 They will also be divided into rarity categories these are Common, Uncommon and Rare.  
-Final Design 
 
-This is what the final badge looks like:   
+#### Final Design 
 
-Front 
+This is what the final badge looks like:
+
+<IMAGES>
+
+##### Front 
 
 New Badge for DEFCON 32
 
- Back 
+##### Back 
 
 DEFCON 32 Badge back
  Further Updates 
@@ -116,3 +124,8 @@ Anders Reeves, CEO added, “For our Swarm, DEF CON is one of the most exciting,
 Built from the ground up by our global red team of ethical hackers and encouraging all who wear the badge to ‘put our steps in each day of the event’… this year’s CovertSwarm DEF CON badge is going to be the talk of the town. Kudos to our team for pulling off such a complex and collaborative achievement!” 
 
 We want to say a huge thank you and well done to Alessandro G, John W, Paul W, and Martin E for leading and supporting this project. The team has worked incredibly hard from ideation to achieving this milestone for the company while proving to the #badgelife community our capabilities. 
+
+
+#### Firmware
+
+As the firmware still has some bugs you can can an updated copy of it [here](#) 
