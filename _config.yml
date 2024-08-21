@@ -43,3 +43,7 @@ defaults:
       type: post
     values:
       tags: Other
+
+github:
+  defcon31-fw-zip_url: http://example.com/download.zip
+  defcon32-fw-zip_url: another value
